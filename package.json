@@ -14,9 +14,11 @@
     "url": "https://github.com/gmrchk/swupjs-gia-demo.git"
   },
   "dependencies": {
+    "@swup/debug-plugin": "^1.0.2",
+    "@swup/js-plugin": "^1.0.4",
     "gia": "^1.0.0",
     "gsap": "^2.0.2",
-    "swupjs": "^1.6.6"
+    "swup": "^2.0.2"
   },
   "devDependencies": {
     "stylus": "^0.54.5",
