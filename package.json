@@ -1,7 +1,7 @@
 {
   "name": "swupjs-gia-demo",
-  "version": "0.2.5",
-  "description": "swup + Gia framework example",
+  "version": "1.0.0",
+  "description": "swup + JS-plugin + Gia framework example",
   "scripts": {
     "stylus": "stylus src/css/main.styl -o assets/main.css",
     "webpack": "webpack-cli src/js/app.js -o assets/app.js --mode production",
