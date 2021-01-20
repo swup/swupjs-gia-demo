@@ -17,7 +17,7 @@
     "@swup/debug-plugin": "^1.0.2",
     "@swup/js-plugin": "^1.0.4",
     "gia": "^1.0.0",
-    "gsap": "^2.0.2",
+    "gsap": "^3.6.0",
     "swup": "^2.0.2"
   },
   "devDependencies": {
