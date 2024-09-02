@@ -17,12 +17,12 @@
     "@swup/debug-plugin": "^1.0.2",
     "@swup/js-plugin": "^1.0.4",
     "gia": "^1.0.0",
-    "gsap": "^2.0.2",
+    "gsap": "^3.6.0",
     "swup": "^2.0.2"
   },
   "devDependencies": {
     "stylus": "^0.54.5",
-    "webpack": "^5.91.0",
+    "webpack": "^5.94.0",
     "webpack-cli": "^5.1.4"
   }
 }
